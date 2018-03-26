@@ -2,3 +2,8 @@
 *
 # Defaults
 !.gitignore
+!/PhotoFrame/
+!/Ebook/
+!/Games/
+!/Sticker/
+!/Wallpaper/
