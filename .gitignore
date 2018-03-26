@@ -24,3 +24,4 @@ chcp.json
 index-prod.html
 .idea
 lib/vendor
+!/app/sae/modules/PhotoFrame/
