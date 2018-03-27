@@ -1,0 +1,11 @@
+{
+  "name": "Games",
+  "description": "Games Module",
+  "version": "0.0.1",
+  "dependencies": {
+    "system": {
+      "type": "SAE",
+      "version": "4.1.0"
+    }
+  }
+}

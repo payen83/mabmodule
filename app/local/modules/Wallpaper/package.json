@@ -1,0 +1,11 @@
+{
+  "name": "Wallpaper",
+  "description": "Wallpaper Module",
+  "version": "0.0.1",
+  "dependencies": {
+    "system": {
+      "type": "SAE",
+      "version": "4.1.0"
+    }
+  }
+}

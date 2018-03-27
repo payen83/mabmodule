@@ -1,1 +1,1 @@
-# MAB Module
+# MAB PhotoFrame Module
